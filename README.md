@@ -13,4 +13,4 @@ This repository contains code that I have used for learning and practice purpose
 
 ## Contribution and Usage
 
-Feel free to fork or clone this repository for your own learning purposes, but understand that the code comes **without any warranties** or support. Use it **at your own risk**.
+Feel free clone this repository for your own learning purposes, but understand that the code comes **without any warranties** or support. Use it **at your own risk**.
